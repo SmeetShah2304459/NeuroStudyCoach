@@ -1,2 +1,4 @@
 # NeuroStudyCoach
-NeuroStudy Coach is a Python-based desktop application built with Tkinter, Pandas, and NumPy to help students track study sessions, manage tasks, and analyze productivity. It uses a modular architecture with data persistence and analytics to provide actionable insights like focus windows and effort forecasting.
+NeuroStudy Coach is a Python-based desktop productivity application developed using Tkinter, Pandas, and NumPy. The application helps students plan, track, and analyze their study routines by allowing them to log study sessions, manage tasks, and view productivity insights.
+The project follows a modular, MVC-style architecture with separate components for the user interface, application logic, data storage, and analytics. Study data is stored using CSV and JSON files, while analytical features such as productivity-by-hour analysis, subject-wise Pareto insights, focus window identification, and effort forecasting convert raw data into meaningful feedback.
+This project enhanced my understanding of Python application development, GUI design, data handling, and clean software architecture, with a strong emphasis on real-world usability.
